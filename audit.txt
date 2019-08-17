@@ -1,0 +1,82 @@
+2018-11-02T12:23:20.564 : bootConfig: PROD 
+
+2018-11-02T12:23:38.713 : getAllOrdersByDate: No order exists for 10/11/2018 
+
+2018-11-02T12:23:44.314 : getAllOrdersByDate: 2018-10-21 
+
+2018-11-02T12:23:47.018 : getAllTaxes:  
+
+2018-11-02T12:23:47.019 : getAllProducts:  
+
+2018-11-02T12:24:13.654 : generateOrderData: OrderNumber: 0 OrderDate: 2018-10-21 CustomerName: name State: PA Area: 10.00 TaxRate: 6.75 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 22.50 LaborCost: 21.00 Tax: 2.94 Total: 46.44 
+
+2018-11-02T12:24:15.254 : createOrder: OrderNumber: 5 OrderDate: 2018-10-21 CustomerName: name State: PA Area: 10.00 TaxRate: 6.75 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 22.50 LaborCost: 21.00 Tax: 2.94 Total: 46.44 
+
+2018-11-02T12:24:18.566 : getAllTaxes:  
+
+2018-11-02T12:24:18.567 : getAllProducts:  
+
+2018-11-02T12:24:26.087 : getOrderByDateAndOrderNumber: 52018-10-21 
+
+2018-11-02T12:24:40.026 : generateOrderData: OrderNumber: 5 OrderDate: 2018-10-21 CustomerName: newName State: PA Area: 10.00 TaxRate: 6.75 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 22.50 LaborCost: 21.00 Tax: 2.94 Total: 46.44 
+
+2018-11-02T12:24:42.129 : editOrder: OrderNumber: 5 OrderDate: 2018-10-21 CustomerName: newName State: PA Area: 10.00 TaxRate: 6.75 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 22.50 LaborCost: 21.00 Tax: 2.94 Total: 46.44 
+
+2018-11-02T12:24:55.743 : getOrderByDateAndOrderNumber: 52018-10-21 
+
+2018-11-02T12:24:57.849 : removeOrder: OrderNumber: 5 OrderDate: 2018-10-21 CustomerName: newName State: PA Area: 10.00 TaxRate: 6.75 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 22.50 LaborCost: 21.00 Tax: 2.94 Total: 46.44 
+
+2018-11-02T12:25:00.890 : save: PROD 
+
+2018-11-02T12:25:02.272 : save: PROD 
+
+2018-11-02T12:25:02.273 : bootConfig: PROD 
+
+2018-11-02T20:18:46.142 : bootConfig: PROD 
+
+2018-11-02T20:19:03.201 : getAllOrdersByDate: No order exists for 10/30/2019 
+
+2018-11-02T20:19:10.370 : getAllOrdersByDate: 2018-10-21 
+
+2018-11-02T20:19:25.533 : getAllOrdersByDate: 2018-10-18 
+
+2018-11-02T20:19:32.663 : getAllTaxes:  
+
+2018-11-02T20:19:32.664 : getAllProducts:  
+
+2018-11-02T20:20:17.313 : generateOrderData: OrderNumber: 0 OrderDate: 2018-10-22 CustomerName: NewName State: OH Area: 10.00 TaxRate: 6.25 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 22.50 LaborCost: 21.00 Tax: 2.72 Total: 46.22 
+
+2018-11-02T20:20:26.323 : createOrder: OrderNumber: 5 OrderDate: 2018-10-22 CustomerName: NewName State: OH Area: 10.00 TaxRate: 6.25 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 22.50 LaborCost: 21.00 Tax: 2.72 Total: 46.22 
+
+2018-11-02T20:20:35.767 : getAllTaxes:  
+
+2018-11-02T20:20:35.767 : getAllProducts:  
+
+2018-11-02T20:20:47.625 : getOrderByDateAndOrderNumber: 12018-10-18 
+
+2018-11-02T20:21:14.662 : generateOrderData: OrderNumber: 1 OrderDate: 2018-10-18 CustomerName: newName State: PA Area: 2.00 TaxRate: 6.75 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 4.50 LaborCost: 4.20 Tax: 0.59 Total: 9.29 
+
+2018-11-02T20:21:19.300 : editOrder: OrderNumber: 1 OrderDate: 2018-10-18 CustomerName: newName State: PA Area: 2.00 TaxRate: 6.75 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 4.50 LaborCost: 4.20 Tax: 0.59 Total: 9.29 
+
+2018-11-02T20:21:44.420 : getOrderByDateAndOrderNumber: 32018-10-21 
+
+2018-11-02T20:21:48.131 : removeOrder: OrderNumber: 3 OrderDate: 2018-10-21 CustomerName: Name3 State: OH Area: 10.00 TaxRate: 6.25 ProductType:  CostPerSqFt: 2.25 LaborCostPerSqFt: 2.10 MaterialCost: 22.50 LaborCost: 21.00 Tax: 2.72 Total: 46.22 
+
+2018-11-02T20:21:53.219 : save: PROD 
+
+2018-11-02T20:21:56.033 : save: PROD 
+
+2018-11-02T20:21:56.036 : bootConfig: PROD 
+
+2018-11-02T20:22:45.007 : bootConfig: asdg 
+
+2018-11-02T20:22:59.333 : getAllOrdersByDate: No order exists for 10/21/2018 
+
+2018-11-02T20:23:16.021 : getAllOrdersByDate: 2018-10-18 
+
+2018-11-02T20:23:22.310 : save: asdg 
+
+2018-11-02T20:23:24.686 : save: asdg 
+
+2018-11-02T20:23:24.687 : bootConfig: asdg 
+
